@@ -1,0 +1,24 @@
+#modo{
+    width: 30px;
+    font-size: 70px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.dark{
+    background: rgb(7, 46, 54);
+}
+
+.dark h1{
+    color: white;
+}
+
+.dark .descripcion{
+    color: rgb(209, 208, 208);
+}
+.dark #modo{
+    color: turquoise;
+}
+.dark h2{
+    color: rgb(0, 0, 0);
+}

@@ -1,0 +1,6 @@
+.container-productosx{
+    display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  gap: 3rem;
+    margin-left: 120px;
+  }
